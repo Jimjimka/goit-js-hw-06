@@ -13,7 +13,7 @@ btnEl.addEventListener('click',(event)=>{
   let bcgColor = getRandomHexColor()
   bodyEl[0].style.backgroundColor=bcgColor
   nameBcgColorEl.textContent =bcgColor
-  console.log(bodyEl[0].style.backgroundColor);
+  
 
 } )
 
